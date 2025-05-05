@@ -17,3 +17,7 @@ I want to make a game that's kind of like a tank game in a maze. It requires 2 p
   * Bullet reflects off walls and explodes on 5th collision or on tank hit
   * Bullet does position tracking and can be affected by wind or attraction during movement
 * Game win screen
+
+# Things to Learn
+* How to assign separate timers and key controls to each tank, which can be calculated independently
+* Better reflection code, instead of applying a "dx *= -1" to reverse direction
